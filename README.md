@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou a Nina Tassini
 
+🤱 Mãe de autistas.
+
 🎯 Analista de Qualidade com experiência sólida em **testes manuais** e atualmente em **transição estratégica para testes automatizados**, com foco em automação de **APIs** e **interfaces web**.
 
 💼 Atuação com planejamento e execução de cenários de testes, análise de requisitos, acompanhamento de bugs, e validação de funcionalidades.
