@@ -40,6 +40,7 @@
 ## 📬 Contato
 
 LinkedIn: https://www.linkedin.com/in/ana-tassini-87452783/
+
 Gmail: tassini.anac@gmail.com
 
 ---
